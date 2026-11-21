@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hadi Budhy
 
-<!--
-**hadibudhy/hadibudhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+End-to-end data across engineering, analytics, data science, and automation.
 
-Here are some ideas to get you started:
+I build tested paths from raw data to decisions. These independent projects use public data; the portfolio links published results to methods, code, and evidence limits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **Engineering:** The REES46 event model keeps 165 of 885,129 events without session IDs visible in a quality mart and builds a funnel with a composite user-session key.
+- **Analytics:** The Criteo randomized benchmark estimates a +0.115 percentage-point conversion lift (95% CI +0.108 to +0.122).
+- **Science:** On an untouched fake-job test set, the model reached 72.8% recall at 96.9% precision with a threshold selected on validation data. This is a historical benchmark, not a production result.
+- **Automation:** GitHub Actions runs contract tests, builds dbt models from CI seeds, checks published evidence and chart hashes, and builds the static site.
+
+## Portfolio
+
+[Case studies](https://hadibudhy.github.io) · [Source code](https://github.com/hadibudhy/hadibudhy.github.io)
